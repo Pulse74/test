@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xdJ+B8pkdwIHUzOYrEexk9jMD68RgXvGhmGgBG9gIdBpdFmPQhlrC51YOIMWIQF37NxEjvca7i27NDJoDss2AA==",
+  "dgSpecHash": "MOERIlhhb/62RZqyNiMsaudoaLG18UPvC9Vihfkkhsm7qdcTzNiQhgf9AncsRoxQFxaScL3ORR1OYcfJOElY/w==",
   "success": true,
-  "projectFilePath": "/home/alex/test/test.csproj",
+  "projectFilePath": "\\\\wsl.localhost\\Ubuntu\\home\\alex\\scr\\test\\test\\test.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

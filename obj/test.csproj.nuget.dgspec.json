@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "/home/alex/test/test.csproj": {}
+    "\\\\wsl.localhost\\Ubuntu\\home\\alex\\scr\\test\\test\\test.csproj": {}
   },
   "projects": {
-    "/home/alex/test/test.csproj": {
+    "\\\\wsl.localhost\\Ubuntu\\home\\alex\\scr\\test\\test\\test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/alex/test/test.csproj",
+        "projectUniqueName": "\\\\wsl.localhost\\Ubuntu\\home\\alex\\scr\\test\\test\\test.csproj",
         "projectName": "test",
-        "projectPath": "/home/alex/test/test.csproj",
-        "packagesPath": "/home/alex/.nuget/packages/",
-        "outputPath": "/home/alex/test/obj/",
+        "projectPath": "\\\\wsl.localhost\\Ubuntu\\home\\alex\\scr\\test\\test\\test.csproj",
+        "packagesPath": "C:\\Users\\alexa\\.nuget\\packages\\",
+        "outputPath": "\\\\wsl.localhost\\Ubuntu\\home\\alex\\scr\\test\\test\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/home/alex/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\alexa\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +56,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
